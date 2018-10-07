@@ -6,7 +6,7 @@ namespace StepFlow.Test.Steps
     {
         public void Dispose()
         {
-            Console.WriteLine("Disposed");
+           
         }
 
         public virtual void Execute()
