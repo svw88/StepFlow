@@ -7,7 +7,7 @@ namespace StepFlow.Test.Features
     {
         public override void Execute()
         {
-            Console.WriteLine("TestStep2Feature1");
+            
         }
     }
 }

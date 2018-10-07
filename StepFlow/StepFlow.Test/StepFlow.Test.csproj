@@ -62,8 +62,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\StepFlow.Engine\StepFlow.csproj">
-      <Project>{2B287205-0817-4649-8FBB-823E723E61B7}</Project>
+    <ProjectReference Include="..\StepFlow\StepFlow.csproj">
+      <Project>{2b287205-0817-4649-8fbb-823e723e61b7}</Project>
       <Name>StepFlow</Name>
     </ProjectReference>
   </ItemGroup>

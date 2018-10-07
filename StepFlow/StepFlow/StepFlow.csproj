@@ -7,8 +7,8 @@
     <ProjectGuid>{2B287205-0817-4649-8FBB-823E723E61B7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>StepFlow.Engine</RootNamespace>
-    <AssemblyName>StepFlow.Engine</AssemblyName>
+    <RootNamespace>StepFlow</RootNamespace>
+    <AssemblyName>StepFlow</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
